@@ -13,3 +13,7 @@ People go on with their daily lives, constantly looking for ends meet, earning m
 - [ ] Reminder to login the daily expenses at the close of day. The time for this will be set by the user.
 
 ## How can you use this app?
+- Signup by providing your contact details.
+- Set up your account by inputing your estimated expenses.
+- Input the time of say you will be available to input the data.
+- Set reminders so it doesn't skip your mind. 
