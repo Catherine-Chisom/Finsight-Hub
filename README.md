@@ -11,5 +11,3 @@ People go on with their daily lives, constantly looking for ends meet, earning m
 - [ ] Monitor their savings.
 - [ ] Monthly breakdown on what they are spending on mostly eg. Food, health, clothing etc, helps them plan better 
 - [ ] Reminder to login the daily expenses at the close of day. The time for this will be set by the user.
-
-## How can you use this app?
